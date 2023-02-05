@@ -1,0 +1,54 @@
+.header {
+    background-color: cyan;
+    color: black;
+    height: 40px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.alink {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+    margin: 0 50px;
+}
+
+.container {
+    display: flex;
+}
+
+.box1 {
+    height: 80vh;
+    width: 74vw;
+    background-color: white;
+}
+
+.box2 {
+    height: 80vh;
+    width: 25vw;
+    background-color: wheat;
+}
+
+.title {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.name {
+    line-height: 50px;
+}
+
+.search {
+    margin-left: 200px;
+}
+
+footer {
+    background-color: antiquewhite;
+    height: 40px;
+}
